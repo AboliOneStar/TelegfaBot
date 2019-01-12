@@ -1,2 +1,2 @@
 <?php
-// Hi Faking World :D
+// Hi F**king World :D
